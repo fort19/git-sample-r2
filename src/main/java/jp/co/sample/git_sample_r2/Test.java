@@ -3,6 +3,7 @@ package jp.co.sample.git_sample_r2;
 public class Test {
 	private Integer id;
 	private String name;
+	private String area;
 
 	public Test(Integer id, String name){
 		this.id = id;
